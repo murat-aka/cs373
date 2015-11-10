@@ -64,6 +64,8 @@ def calculate():
         p = move(p,motions[k])
         p = sense(p,colors,measurements[k])
 
+        
+
     #Your probability array must be printed 
     #with the following code.
 
