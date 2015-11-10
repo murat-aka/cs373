@@ -26,6 +26,7 @@ def calculate():
     #INCORRECT
   
     p = []
+    
 
     #Your probability array must be printed 
     #with the following code.
