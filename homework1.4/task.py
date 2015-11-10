@@ -62,6 +62,7 @@ def calculate():
         return q
 
 
+
     for i in range(len(motions)):
         p = move(p, motions[i])
         p = sense(p, measurements[i])
